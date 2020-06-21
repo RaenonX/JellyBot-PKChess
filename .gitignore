@@ -1,10 +1,28 @@
+# Project files
 .idea
+
+# Compiled python
 __pycache__/
-archive/
-/lib/
-logs/
+
+# Library files
+lib
+
+# Virtual Environment
 venv
+
+# Package distribution
+build/
+dist/
+
+# Archived code
+archive/
+
+# Application logs
+logs/
 *.log
-cache.json
+
+# IIS config file
 web.config
+
+# Sandbox files
 sandbox*.py
